@@ -1,0 +1,7 @@
+git config --global user.name "utirna"
+git config --global user.email "utirna.akola@gmail.com"
+
+git config --list
+
+git init
+git clone https://github.com/utirna/front-end-batch-14-march-2022.git
