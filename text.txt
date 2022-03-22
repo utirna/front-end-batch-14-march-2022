@@ -5,3 +5,6 @@ git config --list
 
 git init
 git clone https://github.com/utirna/front-end-batch-14-march-2022.git
+
+git status
+git add .
